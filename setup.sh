@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mkdir -p ./surveyking/mysql
-mkdir ./surveyking/sql
+mkdir ./surveyking/sqls
 
 cd ./surveyking
 

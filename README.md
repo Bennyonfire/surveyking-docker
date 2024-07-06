@@ -19,7 +19,7 @@ bash setup.sh
 
 ```shell
 mkdir -p ./surveyking/mysql
-mkdir ./surveyking/sql
+mkdir ./surveyking/sqls
 cd ./surveyking
 ```
 
